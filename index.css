@@ -1,0 +1,76 @@
+.am{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+ul,h3,li{
+    display: inline;
+}
+ul{
+    margin-left: 750px;
+}
+li:hover{
+    color:yellow;
+    cursor: pointer;
+}
+.box,.app,.ppa{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 12;
+    display: inline-block;
+    margin-left: 10px;
+}
+/* .app{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 12;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+.ppa{
+    background-color: white;
+    width:300px;
+    height:300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 12;
+    display: inline-block;
+    margin-left: 10px;
+
+} */
+p{
+    color:black;
+    padding:30px;
+}
+
+/* .let{
+    
+    color:black;
+}
+.lett{
+    
+    color:black;
+}
+.lette{
+    
+    color:black;
+} */
+.foot{
+    background-color: black;
+    color: white;
+    width: 1200px;
+    height: 200px;
+}
+input{
+    width: 60%;
+}
+.in{
+    padding: 40px;
+}
